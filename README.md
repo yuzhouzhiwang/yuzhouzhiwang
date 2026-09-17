@@ -75,6 +75,10 @@
 
 ## ✨ 2026 年汇总
 
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=yuzhouzhiwang&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuzhouzhiwang&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+
+<br/>
+
 ### 📊 GitHub 数据
 
 - 公开仓库 6 个：个人博客、主页配置、毕业设计、课程项目、效率工具、图床

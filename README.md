@@ -73,6 +73,21 @@
 
 <br/>
 
-## ✨ 今年汇总
+## ✨ 2026 年汇总
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=yuzhouzhiwang&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuzhouzhiwang&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+### 📊 GitHub 数据
+
+- 公开仓库 6 个：个人博客、主页配置、毕业设计、课程项目、效率工具、图床
+- 2026 活跃项目：[yuzhouzhiwang.github.io](https://github.com/yuzhouzhiwang/yuzhouzhiwang.github.io)（个人博客「时光」，持续更新中）
+- 内容形态：以 HTML/前端为载体，持续沉淀嵌入式学习笔记与开源资料
+
+### 🚀 2026 年主要进展（来自 GitHub 提交记录）
+
+1. **电赛真题库上线**：上传历年真题 190 份（58.5MB）至仓库，部署消费电子 / 工业电子 / 车规电子三大行业筛选页，内置 40 道重点推荐视图与关键词搜索
+2. **打卡计划云端化**：计划数据抽离为云端数据库，接入 GitHub Actions 定时工作流，每天 07:25 自动更新（plan-daily.yml）
+3. **求职雷达扩充**：覆盖 11 大目标岗位，新增 FAE 工程师深度页——岗位介绍、BOSS 直聘实时监控、薪资分布、面试考点、无经验入行指南与代理商就业路径
+4. **学习路线升级**：主推「智能控制面板」项目（STM32F103RCT6 + FreeRTOS + LVGL + 3.5 寸 TFT），一个项目覆盖 MCU / RTOS / LVGL 三大招聘关键词；八股题库新增 RTOS 6 题、LVGL 3 题
+5. **芯片包聚合**：上传 52 份芯片 PDF（华大 42 / 灵动微 9 / ST 4），支持展开收起与下载
+6. **博客体验升级**：首页三大板块重构、移动端适配、文档在线预览（PDF 浏览器内预览、Office 文档网页查看）
+
+> 数据来源：GitHub 仓库提交记录（截至 2026-09-17）
